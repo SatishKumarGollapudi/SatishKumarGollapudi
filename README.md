@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SatishKumarGollapudi
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python and construct3
-- 💞️ I’m looking to collaborate on Constuct3
+- 🌱 I’m currently learning python,Kotlin and Flutter
+- 💞️ I’m looking to collaborate on DataScience
 - 📫 How to reach me  satti507@gmail.com
 
 <!---
